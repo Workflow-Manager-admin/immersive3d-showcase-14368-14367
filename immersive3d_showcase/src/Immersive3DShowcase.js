@@ -28,7 +28,6 @@ function Immersive3DShowcase() {
     async function loadThree() {
       // Dynamically import Three.js for code-splitting benefits
       THREE = await import('three');
-      await import('three/examples/jsm/controls/OrbitControls'); // Preload if extending interactivity
       // Setup renderer
       renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
       renderer.setSize(width, height);
