@@ -1,0 +1,5 @@
+{
+  "task_description": "{'component_name': 'Main Container for Immersive3D Showcase', 'description': 'Primary container for Immersive3D Showcase implementation: 🔶 Objective:\nTo create a visually captivating, interactive 3D website that showcases "Company\'s" services, projects, and contact information using Three.js, enhancing user engagement and modern appeal.\n\n🌟 Vision:\nTurn traditional flat webpages into an immersive digital showroom with scroll-based camera movements and animated 3D elements.\n\n', 'framework': 'react', 'platform': 'web'}",
+  "tasks": {},
+  "next_task_id": 1
+}
